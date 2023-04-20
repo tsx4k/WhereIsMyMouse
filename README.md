@@ -2,9 +2,9 @@
   <h1>Where Is My Mouse? Also known as WIMMapp</h1>
   <h3>“Still searching for your mouse cursor on multiple monitors?”</br>We have the Solution!</h3>
   <div align="center">
-    <a href="https://github.com/sponsors/tsx4k" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/github-sponsors.png" "style=" height: 54px;" height="54" /></a>
+    <a href="https://github.com/sponsors/tsx4k" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/github-sponsors.png" "style=" height: 54px;" height="54" /></a>
     <br />Or <b>Buy Me A Coffee</b><br />
-<a href="https://www.buymeacoffee.com/tsx4k" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/buymeacoffee_qrcode.png" style="height: 104px;" height="104" /></a>
+<a href="https://www.buymeacoffee.com/tsx4k" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/buymeacoffee_qrcode.png" style="height: 104px;" height="104" /></a>
 <br /><a href="https://buycoffee.to/tsx" target="_blank"><img src="https://buycoffee.to/btn/buycoffeeto-btn-primary.svg" style="width: 150px" alt="Postaw mi kawę na buycoffee.to"></a>
 
   </div>
@@ -30,13 +30,13 @@ Introducing WIMMapp a Where Is My Mouse? – the open-source, free helper app th
 
 <div align="center" style="display:flex;flex-direction:column;">
   <p align="center">
-<a href="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/Light_Screen1.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/Light_Screen1.png" border=0 width=300 />
-<a href="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/Light_Screen2.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/Light_Screen2.png" border=0 width=300 />
-<a href="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/Light_Screen3.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/Light_Screen3.png" border=0 width=300 />
+<a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Light_Screen1.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Light_Screen1.png" border=0 width=300 />
+<a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Light_Screen2.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Light_Screen2.png" border=0 width=300 />
+<a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Light_Screen3.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Light_Screen3.png" border=0 width=300 />
 
-<a href="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/Dark_Screen1.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/Dark_Screen1.png" border=0 width=300 />
-<a href="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/Dark_Screen2.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/Dark_Screen2.png" border=0 width=300 />
-<a href="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/Dark_Screen3.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/Dark_Screen3.png" border=0 width=300 />
+<a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen1.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen1.png" border=0 width=300 />
+<a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen2.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen2.png" border=0 width=300 />
+<a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen3.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen3.png" border=0 width=300 />
 
 </p>
 </div>
@@ -45,9 +45,9 @@ Introducing WIMMapp a Where Is My Mouse? – the open-source, free helper app th
 
 <div align="center" style="display:flex;flex-direction:column;">
   <p align="center">
-<a href="https://github.com/sponsors/tsx4k" target="_blank"><b>Become a GitHub Sponsor</b></br /><img src="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/github-sponsors.png" style="height: 54px;" height="54" /></a>
+<a href="https://github.com/sponsors/tsx4k" target="_blank"><b>Become a GitHub Sponsor</b></br /><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/github-sponsors.png" style="height: 54px;" height="54" /></a>
 <br /><br />
-<a href="https://www.buymeacoffee.com/tsx4k" target="_blank"><b>Buy Me A Coffee</b><br /><img src="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/buymeacoffee_qrcode.png" style="height: 184px;" height="184" /></a>
+<a href="https://www.buymeacoffee.com/tsx4k" target="_blank"><b>Buy Me A Coffee</b><br /><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/buymeacoffee_qrcode.png" style="height: 184px;" height="184" /></a>
 <br /><br /><a href="https://buycoffee.to/tsx" target="_blank"><b>Buy Coffee To</b><br /><img src="https://buycoffee.to/btn/buycoffeeto-btn-primary.svg" style="width: 200px" alt="Postaw mi kawę na buycoffee.to"></a>
 </p>
 </div>
