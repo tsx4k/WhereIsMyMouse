@@ -19,7 +19,7 @@ Introducing WIMMapp a Where Is My Mouse? – the open-source, free helper app th
 
 ## ⚡️ Key Features
 
-- Smart Bar at top of the screen with a Indicator will show you the exact mouse cursor position
+- Smart Bar at top of the screen with an Indicator will show you the exact mouse cursor position
 - Just Shake your mouse in Horizontal axis to enable large animation around the cursor
 - Learning capability for better experience, it will think and work for you!
 - Integration with System colors on Windows 10 and Windows 11 e.g. an Accent Color
@@ -30,13 +30,15 @@ Introducing WIMMapp a Where Is My Mouse? – the open-source, free helper app th
 
 <div align="center" style="display:flex;flex-direction:column;">
   <p align="center">
+<a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen1.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen1.png" border=0 width=300 />
+<a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen2.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen2.png" border=0 width=300 />
+<a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen3.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen3.png" border=0 width=300 />
+<a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen4.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen3.png" border=0 width=300 />
+
 <a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Light_Screen1.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Light_Screen1.png" border=0 width=300 />
 <a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Light_Screen2.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Light_Screen2.png" border=0 width=300 />
 <a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Light_Screen3.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Light_Screen3.png" border=0 width=300 />
 
-<a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen1.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen1.png" border=0 width=300 />
-<a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen2.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen2.png" border=0 width=300 />
-<a href="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen3.png" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/WhereIsMyMouse/main/github-assets/Dark_Screen3.png" border=0 width=300 />
 
 </p>
 </div>
