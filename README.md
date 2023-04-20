@@ -21,6 +21,7 @@ Introducing WIMMapp a Where Is My Mouse? – the open-source, free helper app th
 
 - Smart Bar at top of the screen with an Indicator will show you the exact mouse cursor position
 - Just Shake your mouse in Horizontal axis to enable large animation around the cursor
+- Hotkey enabled! Just Hit CTRL+F5 to show cursor animation (you can change the Hotkey in Settings)
 - Learning capability for better experience, it will think and work for you!
 - Integration with System colors on Windows 10 and Windows 11 e.g. an Accent Color
 - User-friendly Interface
