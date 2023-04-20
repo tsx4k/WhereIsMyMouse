@@ -1,6 +1,6 @@
 <div align="center" style="display:flex;flex-direction:column;">
   <h1>Where Is My Mouse? Also known as WIMMapp</h1>
-  <h3>“Still searching for your mouse cursor on multiple monitors?”</br>We have a solution!</h3>
+  <h3>“Still searching for your mouse cursor on multiple monitors?”</br>We have the Solution!</h3>
   <div align="center">
     <a href="https://github.com/sponsors/tsx4k" target="_blank"><img src="https://raw.githubusercontent.com/tsx4k/Fancy-Browser-Selector/main/github-assets/github-sponsors.png" "style=" height: 54px;" height="54" /></a>
     <br />Or <b>Buy Me A Coffee</b><br />
